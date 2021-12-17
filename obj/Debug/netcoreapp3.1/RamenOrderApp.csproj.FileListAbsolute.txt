@@ -1,0 +1,14 @@
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.exe
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.deps.json
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.runtimeconfig.json
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.runtimeconfig.dev.json
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.dll
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\bin\Debug\netcoreapp3.1\RamenOrderApp.pdb
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.csproj.AssemblyReference.cache
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.AssemblyInfoInputs.cache
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.AssemblyInfo.cs
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.csproj.CoreCompileInputs.cache
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.dll
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.pdb
+G:\Agnes-Academic\Belajar-ngoding\C#\RamenOrderApp\obj\Debug\netcoreapp3.1\RamenOrderApp.genruntimeconfig.cache
